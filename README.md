@@ -62,9 +62,9 @@
 
 - 🔭 I’m currently working on **AI Notes Generator**
 
-- 🌱 I’m currently learning **Mern Stack,LLM**
+- 🌱 I’m currently learning **Mern Stack**
 
-- 👯 I’m looking to collaborate on **Small Startup**
+- 👯 I’m looking ...... **
 
 - 🤝 I’m looking for help with **AI Product**
 
@@ -90,30 +90,11 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rahat7866&show_icons=true&locale=en&layout=compact" alt="rahat7866" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rahat7866&show_icons=true&locale=en" alt="rahat7866" /></p>
-<!--<h3 align="center">
-![image](https://user-images.githubusercontent.com/6764957/87082196-3418a980-c25d-11ea-9987-0d9787d54100.png)
-</h3> -->
-
-
-<!-- Whats up hacker news, i dont give a shit about being a github influencer lmao stop judging me based on literally a bio i typed up in 3 minutes -->
-
-
-<!-- comment out for now while https://github.com/jstrieb/github-stats/issues/7 is going on -->
 
 
 
 
-  <!--END_SECTION:endorsements-->
 
-  <!--<h3 align="center">
-![image](https://user-images.githubusercontent.com/6764957/87082196-3418a980-c25d-11ea-9987-0d9787d54100.png)
-</h3> -->
-
-
-<!-- Whats up hacker news, i dont give a shit about being a github influencer lmao stop judging me based on literally a bio i typed up in 3 minutes -->
-
-
-<!-- comment out for now while https://github.com/jstrieb/github-stats/issues/7 is going on -->
 
 
 <p align="center">
